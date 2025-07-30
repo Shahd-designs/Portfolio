@@ -9,7 +9,7 @@ emailjs.init("rSpEM3FLumtFwMiIw"); // Replace with your actual public key from E
 
 // Typed.js initialization
 const typed = new Typed('.multiple-text', {
-    strings: [ 'UI/UX Designer'],
+    strings: [ 'Front End Developer'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
